@@ -1,0 +1,93 @@
+body{
+	background-image:url("../img/ux-patterns-banner2.png");
+	margin-bottom:200px;
+}
+header {
+	background:#202040;
+	height:250px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+header h1{
+	text-align: center;
+	font-size:4em;
+	font-family: 'Baloo Bhaina', cursive;
+	color:yellow;
+}
+
+
+#menu {
+	display: inline-block;
+	background:#204060;
+	font-family:sans-serif;
+	float: left;
+	width:10%;
+	height:50%;
+	
+}
+
+#menu ul {
+	list-style:none;
+	padding:20px;
+
+
+}
+#menu a {
+	text-decoration:none;
+	font-family: 'Baloo Bhaina', cursive;
+	color:yellow;
+}
+
+.contenedor{
+	justify-content:space-between;
+	clear:right;
+	width:78%;
+    font-family:sans-serif;
+	margin-left:10%;
+	margin-bottom:20px;
+}
+
+.producto{
+	text-align:center;
+	width:250px;
+	height:325px;
+    margin-left:1em;
+    display:inline-block;
+    background:#402040;
+    padding-bottom: 1em;
+
+}
+.producto h2{
+	font-family: 'Baloo Bhaina', cursive;
+    color:white;
+
+}
+
+.par{
+	background:#404060;
+
+}
+.fantasma{
+	background:yellow;
+	position:fixed;
+	z-index:10;
+	bottom:2em;
+	right:1em;
+	height:10em;
+	width:5em;
+}
+
+footer {
+	z-index: 1;
+	width: 100%;
+	height:3em;
+	margin-bottom:10px;
+    background:#202040;
+   	font-family:times,cursive;
+   	padding-top:1em;
+   	padding-bottom: 1em;
+}
+footer p{
+	text-align: center;
+	color:white;
+}
