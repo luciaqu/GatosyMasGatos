@@ -11,12 +11,12 @@ header {
 header h1{
 	text-align: center;
 	font-size:4em;
-	font-family: 'Baloo Bhaina', cursive;
+	font-family: 'Baloo Bhaina', sans-serif;
 	color:yellow;
 }
 header h3{
 	text-align: center;
-	font-family: 'Baloo Bhaina', cursive;
+	font-family: 'Baloo Bhaina', sans-serif;
 	color:yellow;
 }
 
@@ -40,7 +40,7 @@ header h3{
 }
 #menu a {
 	text-decoration:none;
-	font-family: 'Baloo Bhaina', cursive;
+	font-family: 'Baloo Bhaina', sans-serif;
 	color:yellow;
 }
 
@@ -64,7 +64,7 @@ header h3{
 
 }
 .producto h2{
-	font-family: 'Baloo Bhaina', cursive;
+	font-family: 'Baloo Bhaina', sans-serif;
     color:white;
 
 }
@@ -96,7 +96,7 @@ header h3{
 }
  
  .tabla h2{
-	font-family: 'Baloo Bhaina', cursive;
+	font-family: 'Baloo Bhaina', sans-serif;
     color:white;
     text-align: center;
  }
@@ -121,7 +121,7 @@ footer {
 	margin-top: 20px;
 	margin-bottom:0px;
     background:#202040;
-   	font-family:times,cursive;
+   	font-family:times,roman;
    	padding-top:1em;
    	padding-bottom: 1em;
 }
