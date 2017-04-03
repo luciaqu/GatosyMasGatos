@@ -113,6 +113,34 @@ header h3{
 	width:5em;
 }
 
+.encuesta{
+	padding-top:1%;
+	padding-bottom:1%;
+	padding-left: 2em;
+    background:#404060;
+	margin-left:20%;
+	margin-right: 2em;
+	width: 40%;
+}
+
+.encuesta h2{
+	font-family: 'Baloo Bhaina', sans-serif;
+	color:yellow;
+}
+.encuesta p{
+	display: inline-block;
+}
+.coso {
+	width:100%;
+}
+/*.coso{
+	text-align: right;
+}*/
+.boton{
+    float:right;
+    margin-right:2em;
+    }
+
 
 footer {
 	z-index: 1;
@@ -126,6 +154,7 @@ footer {
    	padding-bottom: 1em;
 }
 footer p{
+	margin:0;
 	text-align: center;
 	color:white;
 }
